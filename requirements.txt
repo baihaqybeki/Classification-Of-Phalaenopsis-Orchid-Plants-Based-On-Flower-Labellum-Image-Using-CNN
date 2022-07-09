@@ -1,0 +1,10 @@
+opencv-python==4.5.5.62
+lxml
+tqdm
+numpy>=1.16.0
+tensorflow-macos
+absl-py
+easydict
+matplotlib
+pillow
+streamlit
