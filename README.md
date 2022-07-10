@@ -13,4 +13,4 @@ Run web untuk orchid classification
 cd Program
 
 streamlit run app.py
-```
+```# Classification-Of-Phalaenopsis-Orchid-Plants-Based-On-Flower-Labellum-Image-Using-CNN
